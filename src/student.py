@@ -1,5 +1,3 @@
-# src/student.py
-
 """
 Student Module
 
