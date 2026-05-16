@@ -19,6 +19,13 @@ The application demonstrates the use of Object-Oriented Programming (OOP), JSON 
 - Save and load records using JSON
 - Error handling for invalid inputs
 
+## Sample CLI Screenshots
 ## Installation / Setup Steps
+1. Download or clone this repository.
+2. Open terminal in the project folder.
+3. Run:
 
+   python src/main.py
+   
 ## YouTube Demo
+https://youtu.be/BiVE40mi2T0?si=aEeJUzl-tphv4Cln
