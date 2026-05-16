@@ -16,8 +16,7 @@ The application demonstrates the use of Object-Oriented Programming (OOP), JSON 
 - Display highest grade student
 - Show passed students
 - Show failed students
-- Save and load records using JSON
-- Error handling for invalid inputs
+- Exit
 
 ## Sample CLI Screenshots
 <img width="444" height="561" alt="att dy3X08WlaNV-7ThUrH8hqBfYxRagUOG2mjFV4nQ33Lk" src="https://github.com/user-attachments/assets/beb91b9d-d90e-472b-bde9-44b08ff5da54" />
