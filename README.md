@@ -20,9 +20,10 @@ The application demonstrates the use of Object-Oriented Programming (OOP), JSON 
 - Error handling for invalid inputs
 
 ## Sample CLI Screenshots
-<img width="374" height="335" alt="att E1xjBE7Ndk1Ekzv8MfH0xFKCKwG8y3zDBrLtrKSyK4U" src="https://github.com/user-attachments/assets/b88bbc21-97ff-47cc-b20f-b201f8a07cc4" />
-<img width="375" height="518" alt="att 6IuVgDGIzynw2o-Re-xWYR6qvRBWaBZ4e8o9l66mb6w" src="https://github.com/user-attachments/assets/b991479d-03b9-4010-9dbc-ecadcd2e555c" />
-<img width="444" height="561" alt="att dy3X08WlaNV-7ThUrH8hqBfYxRagUOG2mjFV4nQ33Lk" src="https://github.com/user-attachments/assets/88ca45fe-7f12-4e23-b94b-95820b1172e0" />
+<img width="444" height="561" alt="att dy3X08WlaNV-7ThUrH8hqBfYxRagUOG2mjFV4nQ33Lk" src="https://github.com/user-attachments/assets/beb91b9d-d90e-472b-bde9-44b08ff5da54" />
+<img width="375" height="518" alt="att 6IuVgDGIzynw2o-Re-xWYR6qvRBWaBZ4e8o9l66mb6w" src="https://github.com/user-attachments/assets/231348dc-2652-437f-b6b0-bf08d6689d8e" />
+<img width="374" height="335" alt="att E1xjBE7Ndk1Ekzv8MfH0xFKCKwG8y3zDBrLtrKSyK4U" src="https://github.com/user-attachments/assets/ba5a99e9-1f56-4338-a530-d0ca6e9ab7e1" />
+
 
 ## Installation / Setup Steps
 1. Download or clone this repository.
