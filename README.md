@@ -32,4 +32,4 @@ The application demonstrates the use of Object-Oriented Programming (OOP), JSON 
    python src/main.py
    
 ## YouTube Demo
-https://youtu.be/BiVE40mi2T0?si=aEeJUzl-tphv4Cln
+https://youtu.be/BiVE40mi2T0?si=MPScW9sZv1G30lJr
